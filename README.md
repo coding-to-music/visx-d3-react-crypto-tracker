@@ -23,6 +23,7 @@ https://dev.to/ayeprahman/how-i-build-crypto-tracker-chart-with-react-4k9h
 ```java
 const secret = process.env.JWT_SECRET;
 mongoose_1.default.connect(`${process.env.MONGODB_URI
+
 ```
 
 ## Deploying to Render
